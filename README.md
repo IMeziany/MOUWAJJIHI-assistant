@@ -50,8 +50,8 @@ To get started with our project, follow these steps:
 
 ```b
     sh
-    git clone https://github.com/IMeziany/MOUWAJJIHI-assistant.git
-    cd MOUWAJJIHI-assistant
+    git clone https://github.com/IMeziany/OrienTech.git
+    cd OrienTech
 ```
 
 2. *Install Dependencies*:
